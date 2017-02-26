@@ -3,6 +3,24 @@
 
     <item
         is-multidex="true"
+        jar="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_7b257d08ec613b562cf9197e742d8390d14d4ce1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luzhoutao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_e67eb5c5188b314790cb7c74afaafdcf0165e9d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -16,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0d290d8fe1dcd7fa42c6e3361c092fc5329b86f1">
+        sha1="89948ea5df90c7fb0746aadc8e159b10c2d590a2">
         <dex dex="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fe99a7ac3f6ea3affef459f82247721c171808d1/classes.dex" />
     </item>
     <item
@@ -48,51 +66,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_7d1029f9d650d226fa507bff1fc689ce80422527/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_a6b83b99a77f3ce17d2b73c13cc8c26de4e496f1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_e2600a0f7bc296ee8d31f609c57b935a2173e861/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_7b257d08ec613b562cf9197e742d8390d14d4ce1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luzhoutao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_e67eb5c5188b314790cb7c74afaafdcf0165e9d4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -102,12 +75,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_7d1029f9d650d226fa507bff1fc689ce80422527/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
         <dex dex="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_31e2d906f1a9cb5dce7f4b1a7cf165ab9cf7794e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_a6b83b99a77f3ce17d2b73c13cc8c26de4e496f1/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -135,6 +126,15 @@
         revision="25.0.2"
         sha1="5c4d8b012110187e98a32d82eb6bfab2791e41d2">
         <dex dex="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5ecb5d852f79cec152ff32b880c61184407f16f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/luzhoutao/AndriodStudioProjects/MedBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_e2600a0f7bc296ee8d31f609c57b935a2173e861/classes.dex" />
     </item>
 
 </items>

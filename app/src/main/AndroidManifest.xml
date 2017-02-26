@@ -11,20 +11,31 @@
         <activity
             android:name=".ui.LaunchActivity"
             android:label="@string/app_name"
-            android:theme="@style/AppThemeLauncher"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeLauncher">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar">
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.PlanActivity"
+            android:label="@string/plan_activity"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".ui.FamilyActivity"
+            android:label="@string/family_activity"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".ui.SettingsActivity"
+            android:label="@string/settings_activity"
+            android:parentActivityName=".MainActivity"/>
 
-        </activity>
     </application>
 
 </manifest>
